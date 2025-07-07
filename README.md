@@ -36,7 +36,7 @@ Desarrollador frontend con foco en **React** y experiencia creciente en el ecosi
 
 - 📬 Contacto: [eliudjosuec@gmail.com](mailto:eliudjosuec@gmail.com)
 - 🌐 Portafolio: [ecamposweb.netlify.app](https://ecamposweb.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/eliudcampos](https://linkedin.com/in/eliudcampos)
+- 💼 LinkedIn: [linkedin.com/in/eliudcampos](https://www.linkedin.com/in/eliudjosue/)
 
 ---
 
