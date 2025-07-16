@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Eliud Campos
 
-Desarrollador frontend con foco en **React** y experiencia creciente en el ecosistema **Python**, automatización de tareas y desarrollo de APIs.
+Desarrollador frontend con foco en **Angular**, **React** y experiencia creciente en el ecosistema **Python**, automatización de tareas y desarrollo de APIs.
 
 ---
 
