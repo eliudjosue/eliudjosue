@@ -17,10 +17,20 @@ Desarrollador frontend con foco en **Angular**, **React** y experiencia crecient
 ## 🧰 Tech Stack
 
 ```txt
-🟦  React · Vite · Tailwind CSS  
-🐍  Python · FastAPI · SQLite · Firestore  
-🧩  n8n · APIs REST · Git · Docker  
-☁️  Google Cloud · Netlify · Cloud Run
+🧰 Tech Stack
+🟦 Frontend
+Angular 17 · RxJS · Angular CLI · Angular Material
+
+React · Vite · Tailwind CSS
+
+🐍 Backend
+Python · FastAPI · SQLite · Firestore
+
+🔗 Integraciones & Automatización
+n8n · APIs REST · JWT · Auth Guards
+
+🚀 DevOps & Cloud
+Git · Docker · Google Cloud (Cloud Run, Firestore) · Netlify
 ```
 
 ---
