@@ -16,7 +16,7 @@ Desarrollador frontend con foco en **Angular**, **React** y experiencia crecient
 
 ## 🧰 Tech Stack
 
-```txt
+
 ## 🧰 Tech Stack
 
 ### 🟦 Frontend
@@ -31,7 +31,7 @@ Desarrollador frontend con foco en **Angular**, **React** y experiencia crecient
 
 ### 🚀 DevOps & Cloud
 - **Git** · **Docker** · **Google Cloud** (Cloud Run, Firestore) ·
-```
+
 
 ---
 
